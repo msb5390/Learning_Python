@@ -1,0 +1,8 @@
+D = {'Mike':'me',
+     'Tim':'brother',
+     'Scott':'dad',
+     'Julie':'mom',
+     'Emilee':'sister'}
+
+for k, v in sorted(D):
+    print(k, v)

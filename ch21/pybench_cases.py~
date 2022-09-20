@@ -1,0 +1,7 @@
+"""
+pybench_cases.py: Run pybench on a set of pythons and statements.
+
+Select modes by editing this script or using command-line arguments (in
+sys.argv): e.g., run a "C:\python27\python pybench_cases.py" to test just
+one specific version on smts, "pybench_cases.py -a" to test all pythons
+listed, or a "py -3 pybench_cases.py -a -t" to trace command lines too.
