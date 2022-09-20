@@ -1,7 +1,0 @@
-S = 'this is a string!'
-
-for char in S:
-    print(ord(char), end=' ')
-else:
-    print()
-    
